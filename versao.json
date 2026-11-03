@@ -1,1 +1,8 @@
-{"versao": "1.86", "codigo": 88, "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.86.apk", "sha256": "aa4f0f1c31d1aed9b9371f65e537b5db172f4033d6c56cfd88afa463eb89ef18", "tam": 13478966, "notas": "Rotas: opções de caminho, preferir menos subida ou trechos do pessoal, cores da inclinação, ida e volta, esticar até X km e rascunho que continua no site."}
+{
+ "versao": "1.87",
+ "codigo": 89,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.87.apk",
+ "sha256": "d6719f97aed03bb101d49d484e5048ca18669e965ecce3d72ee501c0e6c9ed51",
+ "tam": 13483061,
+ "notas": "Ao vivo: rota planejada para quem acompanha, aviso de parado, queda na página, ligar sozinho e link fixo, encerrar sozinho, mensagens rápidas, economia com bateria baixa e clima no local."
+}
