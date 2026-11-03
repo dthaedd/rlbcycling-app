@@ -1,8 +1,8 @@
 {
- "versao": "1.87",
- "codigo": 89,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.87.apk",
- "sha256": "d6719f97aed03bb101d49d484e5048ca18669e965ecce3d72ee501c0e6c9ed51",
- "tam": 13483061,
- "notas": "Ao vivo: rota planejada para quem acompanha, aviso de parado, queda na página, ligar sozinho e link fixo, encerrar sozinho, mensagens rápidas, economia com bateria baixa e clima no local."
+ "versao": "1.88",
+ "codigo": 90,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.88.apk",
+ "sha256": "6694af476b338c8c38999dff3265f4b045f78608e75c02aec0f6c1ed9c325030",
+ "tam": 13487155,
+ "notas": "Feed: curtir e comentar pelo app, aviso de pedais novos, filtros (tipo, fotos, distância), silenciar, selos de recorde, clima do pedal e resumo da turma na semana."
 }
