@@ -1,8 +1,8 @@
 {
- "versao": "1.88",
- "codigo": 90,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.88.apk",
- "sha256": "6694af476b338c8c38999dff3265f4b045f78608e75c02aec0f6c1ed9c325030",
- "tam": 13487155,
- "notas": "Feed: curtir e comentar pelo app, aviso de pedais novos, filtros (tipo, fotos, distância), silenciar, selos de recorde, clima do pedal e resumo da turma na semana."
+ "versao": "1.89",
+ "codigo": 91,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.89.apk",
+ "sha256": "2e1fae7929dde4fb24ddbeabcff72ca9966b78f233e157273b40f49cd0408478",
+ "tam": 13495347,
+ "notas": "Desafios do mês: inscrição mensal, progresso, medalhas virtuais (troféus e coroas na coleção) e medalha junto à foto no Feed."
 }
