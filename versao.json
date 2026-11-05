@@ -1,8 +1,8 @@
 {
- "versao": "1.89",
- "codigo": 91,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.89.apk",
- "sha256": "2e1fae7929dde4fb24ddbeabcff72ca9966b78f233e157273b40f49cd0408478",
- "tam": 13495347,
- "notas": "Desafios do mês: inscrição mensal, progresso, medalhas virtuais (troféus e coroas na coleção) e medalha junto à foto no Feed."
+ "versao": "1.90",
+ "codigo": 92,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.90.apk",
+ "sha256": "9be76ecb660680c7e55ef5111291cf256aeea3b1feeef01784e372b6ea424d5c",
+ "tam": 13507639,
+ "notas": "Histórico com busca, filtros e calendário; último pedal e Pedalar hoje? no início; confirmação ao gravar; pressão dos pneus; checklist antes de sair; lembrete de lubrificar a corrente; calculadora de marchas."
 }
