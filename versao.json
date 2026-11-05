@@ -1,8 +1,8 @@
 {
- "versao": "1.91",
- "codigo": 93,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.91.apk",
- "sha256": "4cc74a8ed81af9c7f4a9ae66b586b0af44b7e2e738c62548efd8dbd4a273c994",
- "tam": 13524022,
- "notas": "Mapas: meus lugares e voltar para casa, rota por tempo, radar de chuva, agendar pedal, nota de segurança da rota, pane na bike, voltar pelo mesmo caminho, mirantes e rota de passeio."
+ "versao": "1.92",
+ "codigo": 94,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.92.apk",
+ "sha256": "c1b1eac5a9b065635df15acbcf8cd2b85ec8daeb82e0e34da13c574d7dc97027",
+ "tam": 13528115,
+ "notas": "Mapas: escolha mostrar ou esconder as fotos (30 dias, 90 dias ou todas) e fotos agrupadas; radar de chuva com escolha do horário e previsão de nuvens e chuva para 12 h; atalho do radar no início."
 }
