@@ -1,8 +1,8 @@
 {
- "versao": "1.90",
- "codigo": 92,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.90.apk",
- "sha256": "9be76ecb660680c7e55ef5111291cf256aeea3b1feeef01784e372b6ea424d5c",
- "tam": 13507639,
- "notas": "Histórico com busca, filtros e calendário; último pedal e Pedalar hoje? no início; confirmação ao gravar; pressão dos pneus; checklist antes de sair; lembrete de lubrificar a corrente; calculadora de marchas."
+ "versao": "1.91",
+ "codigo": 93,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.91.apk",
+ "sha256": "4cc74a8ed81af9c7f4a9ae66b586b0af44b7e2e738c62548efd8dbd4a273c994",
+ "tam": 13524022,
+ "notas": "Mapas: meus lugares e voltar para casa, rota por tempo, radar de chuva, agendar pedal, nota de segurança da rota, pane na bike, voltar pelo mesmo caminho, mirantes e rota de passeio."
 }
