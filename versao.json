@@ -1,8 +1,8 @@
 {
- "versao": "1.92",
- "codigo": 94,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.92.apk",
- "sha256": "c1b1eac5a9b065635df15acbcf8cd2b85ec8daeb82e0e34da13c574d7dc97027",
- "tam": 13528115,
- "notas": "Mapas: escolha mostrar ou esconder as fotos (30 dias, 90 dias ou todas) e fotos agrupadas; radar de chuva com escolha do horário e previsão de nuvens e chuva para 12 h; atalho do radar no início."
+ "versao": "1.93",
+ "codigo": 95,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.93.apk",
+ "sha256": "9ccfa11beb23f05bafd6129c83a0aecd1008017ee576d899b5805cd8063f5945",
+ "tam": 13532214,
+ "notas": "Subida das rotas corrigida (pontos sem altitude não somam mais centenas de metros); etiqueta Entrada manual no feed; download automático do iGPSPORT; ajustes no radar de chuva."
 }
