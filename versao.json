@@ -1,8 +1,8 @@
 {
- "versao": "1.93",
- "codigo": 95,
- "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.93.apk",
- "sha256": "9ccfa11beb23f05bafd6129c83a0aecd1008017ee576d899b5805cd8063f5945",
- "tam": 13532214,
- "notas": "Subida das rotas corrigida (pontos sem altitude não somam mais centenas de metros); etiqueta Entrada manual no feed; download automático do iGPSPORT; ajustes no radar de chuva."
+ "versao": "1.94",
+ "codigo": 96,
+ "url": "https://raw.githubusercontent.com/dthaedd/rlbcycling-app/main/RLBCycling-1.94.apk",
+ "sha256": "5dec7b6daac1a4204ab6fa5eebd90c18123911a313bf6ac013b521660c82ce19",
+ "tam": 13540406,
+ "notas": "Treino e Mapas mais rápidos e leves: o app abre mais rápido, o banco ocupa bem menos espaço e gravar não trava mais a tela. Atualize o My Stuffs e o RLB Cycling juntos para a sincronização continuar funcionando."
 }
